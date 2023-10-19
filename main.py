@@ -68,6 +68,11 @@
 
 # Cadenas de formato con f-Strings
 
-name = "Jon"
-miCadena = f"Hello , my is name {name}"
-print(miCadena)
+# name = "Jon"
+# miCadena = f"Hello , my is name {name}"
+# print(miCadena)
+
+
+# lastName = "Omar"
+# miOtraCadena = f"Hola, Como has estados {lastName}"
+# print(miOtraCadena)
